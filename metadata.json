@@ -1,0 +1,7 @@
+{
+  "name": "Gonza Mas Motos - Sorteos",
+  "description": "Plataforma de sorteos de motos de alta gama con pasarela de pagos, gestión de ganadores y panel de administración avanzado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
